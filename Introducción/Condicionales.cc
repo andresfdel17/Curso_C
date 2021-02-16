@@ -3,7 +3,7 @@
 
 using namespace std;
 
-main()|
+main()
 {
     int numero, dato = 5;
 
